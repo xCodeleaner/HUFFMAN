@@ -1,0 +1,2 @@
+# HUFFMAN
+code of huffmancode
